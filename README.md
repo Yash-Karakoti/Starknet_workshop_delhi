@@ -1,1 +1,0 @@
-# Starknet_workshop_delhi
